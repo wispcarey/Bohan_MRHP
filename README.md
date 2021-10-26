@@ -1,5 +1,7 @@
 # Bohan_MRHP
 
+Some codes here are based on Baichuan's multivariate Hawkes codes, https://github.com/ybcmath/MultiSTHP
+
 Folders:
 1. covid_data: files to read and process raw covid data
 2. exp_simu_data: matlab data of simulation results based on parameter fitted by real covid data
