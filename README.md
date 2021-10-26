@@ -17,7 +17,7 @@ scripts:
 2. compare the performance of reconstruction: drive_parfit_syn_recon: parameter fitting for synthetic point process
                                               drive_make_recon_plots: make plots of reconstruction algorithms
 3. semi-parametric fitting: drive_make_nonpar_plots
-4. parameter fitting for real covid data: drive_make_parfit_plots_covid
+4. parameter fitting for real covid data: drive_make_parfit_plots_covid\n
                                           drive_parfit_covid_data
                                           drive_simu_covid_data
                                           drive_pred_covid_data
